@@ -46,6 +46,7 @@ I'm building **the same app in React, Vue, and Svelte with Claude Code**, using 
 ## 📝 Latest Articles on Zenn
 
 <!-- BLOG-POST-LIST:START -->
+- [AIコードレビューの不合格率が51%→13%に。3モデル中2つは判定していなかった](https://zenn.dev/taka8823/articles/2df36d66844c15)
 <!-- BLOG-POST-LIST:END -->
 
 ---
