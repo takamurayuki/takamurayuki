@@ -1,6 +1,6 @@
 # Yuki Takamura
 
-Full-stack engineer working with TypeScript, Go and Rust.
+Software Engineer. In my own projects I mostly write TypeScript, Go and Rust.
 
 Since June 2026 I've had autonomous coding agents build my own task-management app, [rapitas](https://github.com/takamurayuki/rapitas). I write about what the logs actually show, including the places where my own setup quietly broke.
 
