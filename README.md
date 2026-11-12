@@ -30,7 +30,6 @@ My takeaway: check that the review or test actually ran before trusting its pass
 I publish in Japanese on [Zenn](https://zenn.dev/taka8823).
 
 <!-- BLOG-POST-LIST:START -->
-- [自分のカード明細1年分を解析したら、サブスクに月5万円払っていた話](https://zenn.dev/taka8823/articles/83c02ddd1bcb71)
 - [AIコードレビューの不合格率が51%→13%に。3モデル中2つは判定していなかった](https://zenn.dev/taka8823/articles/2df36d66844c15)
 <!-- BLOG-POST-LIST:END -->
 
